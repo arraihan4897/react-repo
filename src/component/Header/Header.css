@@ -1,0 +1,26 @@
+.hnav{
+    background-color: black;
+    height: 80;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+ .hnav a{
+    padding-left: 18px;
+    padding-right: 18px;
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+ .hnav a:hover{
+    padding-left: 8px;
+    padding-right: 8px;
+    text-decoration: none;
+    color: rgb(249, 116, 116);
+    font-size:19px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    background-color: rgb(55, 0, 0);
+}
